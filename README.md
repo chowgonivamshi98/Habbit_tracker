@@ -9,7 +9,7 @@ Habit Tracker is a web application that helps you keep track of your daily habit
 * User-friendly interface: Enjoy a clean and intuitive interface that makes habit tracking a breeze.
 ## Installation
 1. Clone the repository: 
-*  git clone: https://github.com/Kshanaprava/habit-tracker.git
+*  git clone: (https://github.com/chowgonivamshi98/Habbit_tracker/tree/main)
 2. Navigate to the project directory:
 *  cd habit-tracker
 3. Install the dependencies:
