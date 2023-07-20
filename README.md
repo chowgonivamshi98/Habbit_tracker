@@ -8,5 +8,23 @@ Habit Tracker is a web application that helps you keep track of your daily habit
 * Customize habit details: Add descriptions, set goals, and configure reminders for each habit.
 * User-friendly interface: Enjoy a clean and intuitive interface that makes habit tracking a breeze.
 ## Installation
-1 Clone the repository: 
- git clone https://github.com/Kshanaprava/habit-tracker.git
+1. Clone the repository: 
+*  git clone: https://github.com/Kshanaprava/habit-tracker.git
+2. Navigate to the project directory:
+*  cd habit-tracker
+3. Install the dependencies:
+*   npm install
+4. npm install
+*   npm start
+5. Open your web browser and visit http://localhost:3000 to access the Habit Tracker app.
+## Technologies Used
+* Node.js
+* Express.js
+* MongoDB
+* React
+* Bootstrap
+## Acknowledgements
+* Font Awesome for providing awesome icons.
+* Bootstrap for the responsive CSS framework.
+## Sample Output
+![alt text](output.png)
