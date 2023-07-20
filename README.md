@@ -27,4 +27,5 @@ Habit Tracker is a web application that helps you keep track of your daily habit
 * Font Awesome for providing awesome icons.
 * Bootstrap for the responsive CSS framework.
 ## Sample Output
-![alt text](output.png)
+![alt text](output.jpg)
+![alt text](output2.jpg)
